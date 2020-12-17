@@ -1,0 +1,10 @@
+open Anaconda Prompt console
+# activate the virtual env used for training
+# mine was name "tensorflow"
+$conda activate tensorflow
+d:
+cd D:\DL\yolo3\Retrain-yolo3-master_handDetection
+tensorboard --logdir=logs/000
+
+open a browser and type in url as:
+http://DESKTOP-OLA7L6N:6006
