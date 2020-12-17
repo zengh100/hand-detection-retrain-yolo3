@@ -4,7 +4,7 @@ How I use Yolo3 (Tensorflow and Keras implementation) to train a model for hand 
 ------
 ## 1. Introduction
 - This project documented how I used Yolo3 (Tensorflow and Keras implementation) to train a model for hand detection. Hope this demo can help get your own yolo3 model for your dataset.
-- I recorded the implementation based on my understanding and actual  while inspired by many others' work (see references).
+- I recorded the implementation based on my understanding, train and test practice, while inspired by many others' work (see references).
 
 ## 2. How to run this project
 - `git clone https://github.com/zengh100/hand-detection-retrain-yolo3.git`
@@ -39,7 +39,7 @@ path/to/image2.jpg 120,300,250,600,2
 ## 3. Others:
 The above steps can train various Datasets as long as train.txt is orgainzed correctly, the number of classes matches with files *yolo3.cfg and voc_classes.txt*. 
 
-[![Video](video/test_results.mp4)]
+[![Video](video/test_results.gif)]
 
 ##Reference
 
