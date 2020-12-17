@@ -39,7 +39,7 @@ path/to/image2.jpg 120,300,250,600,2
 ## 3. Others:
 The above steps can train various Datasets as long as train.txt is orgainzed correctly, the number of classes matches with files *yolo3.cfg and voc_classes.txt*. 
 
-[![Video](video/test_results.gif)]
+[![Video](video/test-results.gif)]
 
 ##Reference
 
